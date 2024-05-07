@@ -18,7 +18,7 @@ This script provides a simple way to perform a ping sweep to identify live hosts
 
 ## Example
 
-'''To find out your IP Address, use the ipconfig command in Command Prompt.
+To find out your IP Address, use the ipconfig command in Command Prompt.
 
 Enter the first three octets of your IP Address (e.g., 192.168.0): 192.168.1
 Enter the file name for saving the output (without extension): output
@@ -34,7 +34,7 @@ Output:
 The following hosts are live:
 
 192.168.1.1 is live.
-192.168.1.2 is live.'''
+192.168.1.2 is live.
 
 
 
